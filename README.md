@@ -1,6 +1,6 @@
 ## SpeechRecognizer
 
-Sample app that shows how to implement speech to text functionality on Android.
+App to record activities in realtime (In Development)
 
 The [SpeechRecognizer](https://developer.android.com/reference/android/speech/SpeechRecognizer) class provides access to the speech recognition service. 
 
